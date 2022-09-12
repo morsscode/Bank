@@ -1,7 +1,6 @@
 package com.example.banking;
 // package for user input
 import java.util.Scanner;
-//main function
 public class banking {
     public static void main(String[] args) {
         System.out.println("Hello World");
